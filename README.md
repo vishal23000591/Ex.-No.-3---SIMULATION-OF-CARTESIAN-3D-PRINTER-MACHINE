@@ -52,16 +52,17 @@
 
 ## Output:
 X Axis Assembly
-![image](https://github.com/user-attachments/assets/ea68dd5c-3fe1-4c94-a218-6aa8a87e1bfb)
+![WhatsApp Image 2024-11-23 at 10 46 38_b3a4203f](https://github.com/user-attachments/assets/372d3dd1-886b-4dde-a44f-eeae3dcaf8d0)
 
 Y Axis Assembly
-![image](https://github.com/user-attachments/assets/b43e0435-c35e-4fe1-b28d-dadfe3e27d5f)
+![WhatsApp Image 2024-11-23 at 10 46 37_a05352fc](https://github.com/user-attachments/assets/06895354-dd38-42e8-a619-1f5e4e9dc701)
+
 
 Z Axis Assembly
-![image](https://github.com/user-attachments/assets/eb18a708-789b-4c8e-9327-753d876dd26e)
+![WhatsApp Image 2024-11-23 at 10 46 37_cf039a65](https://github.com/user-attachments/assets/a0240920-e880-4825-b75c-c45b2b54e08f)
 
 Completed Assembly
-![image](https://github.com/user-attachments/assets/73b29b00-09e8-47be-ba8c-cd05a76f3bb3)
+![WhatsApp Image 2024-11-23 at 10 46 38_3a496164](https://github.com/user-attachments/assets/97fa6380-e991-4a06-9b85-bf5c8e874830)
 
 Playing with Axis
 ![image](https://github.com/user-attachments/assets/ba62ab83-dca3-4b02-aacf-c0412b28005b)
